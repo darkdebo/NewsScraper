@@ -6,7 +6,7 @@ from time import mktime
 from datetime import datetime
 
 # Set the limit for number of articles to download
-LIMIT = 4
+LIMIT = 100
 
 data = {}
 data['newspapers'] = {}
